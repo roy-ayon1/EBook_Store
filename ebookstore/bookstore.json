@@ -1,0 +1,103 @@
+[{
+    "name" : "Book 1",
+    "category" : "Book 1",
+    "price" : "50.25",
+    "imgSrc" : "./src/Best Seller/1.jpg"
+},
+{
+    "name" : "Book 2",
+    "category" : "Book 2",
+    "price" : "250.25",
+    "imgSrc" : "./src/Best Seller/2.jpg"
+},
+{
+    "name" : "Book 3",
+    "category" : "Book 3",
+    "price" : "350.25",
+    "imgSrc" : "./src/Best Seller/3.jpg"
+},
+{
+    "name" : "Book 4",
+    "category" : "Book 4",
+    "price" : "50.25",
+    "imgSrc" : "./src/Best Seller/4.jpg"
+},
+{
+    "name" : "Book 5",
+    "category" : "Book 5",
+    "price" : "50.25",
+    "imgSrc" : "./src/Best Seller/5.jpg"
+},
+{
+    "name" : "Book 6",
+    "category" : "Book 6",
+    "price" : "650.25",
+    "imgSrc" : "./src/Best Seller/6.jpg"
+},
+{
+    "name" : "Book 7",
+    "category" : "Book 7",
+    "price" : "750.25",
+    "imgSrc" : "./src/Best Seller/7.jpg"
+},
+{
+    "name" : "Book 8",
+    "category" : "Book 8",
+    "price" : "850.25",
+    "imgSrc" : "./src/Best Seller/8.jpg"
+},
+{
+    "name" : "Book 9",
+    "category" : "Book 9",
+    "price" : "950.25",
+    "imgSrc" : "./src/Best Seller/9.jpg"
+},
+{
+    "name" : "Book 10",
+    "category" : "Book 10",
+    "price" : "1050.25",
+    "imgSrc" : "./src/Best Seller/10.jpg"
+},
+{
+    "name" : "Book 11",
+    "category" : "Book 11",
+    "price" : "1150.25",
+    "imgSrc" : "./src/Best Seller/11.jpg"
+},
+{
+    "name" : "Book 12",
+    "category" : "Book 12",
+    "price" : "1250.25",
+    "imgSrc" : "./src/Best Seller/12.jpg"
+},
+{
+    "name" : "Book 13",
+    "category" : "Book 13",
+    "price" : "1350.25",
+    "imgSrc" : "./src/Best Seller/13.jpg"
+},
+{
+    "name" : "Book 14",
+    "category" : "Book 14",
+    "price" : "1450.25",
+    "imgSrc" : "./src/Best Seller/14.jpg"
+},
+{
+    "name" : "Book 15",
+    "category" : "Book 15",
+    "price" : "1550.25",
+    "imgSrc" : "./src/Best Seller/15.jpg"
+},
+{
+    "name" : "Book 16",
+    "category" : "Book 16",
+    "price" : "1650.25",
+    "imgSrc" : "./src/Best Seller/16.jpg"
+},
+{
+    "name" : "Book 17",
+    "category" : "Book 17",
+    "price" : "1770.25",
+    "imgSrc" : "./src/Best Seller/17.jpg"
+}
+]

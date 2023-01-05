@@ -1,0 +1,108 @@
+body {
+    background-color: red;
+    height: 100%;
+    width: 100%;
+    min-height: 100%;
+    margin: 0 auto;
+    padding:0px;
+  }
+
+#home-logo{
+    
+    width: 70px;
+    height: auto;
+      
+}
+
+
+#cart-count-info{
+    position: absolute;
+    top: -12px;
+    right: -8px;
+    background: var(--fire-bush);
+    color: #fff;
+    font-size: 1rem;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+}
+
+#bannerItem{
+    height:85vh;
+    min-height:300px;
+    -webkit-background-size:cover;
+    background-size: cover;
+}
+#bannerItem::before{
+    content: "";
+    display: block;
+    position:absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background :#000;
+    opacity: 0.7;
+}
+
+.carousel-caption{
+    bottom: 180px;
+    padding-left: 100px;
+    padding-right: 100px;
+    
+
+}
+.carousel-caption h5{
+    font-size: 80px;
+    font-weight: 700;
+    
+}
+
+.carousel-caption p{
+    font-size: 10px;
+    top:2rem;
+    
+}
+
+.anounce-1 p{
+    margin-top: 60px;
+    text-align: center;
+    Font-Family:futura-lt-w01-book;
+    font-size:20px;
+    font-weight:700;
+    color:rgb(14, 52, 90);
+    text-decoration:none solid rgb(14, 52, 90);
+}
+.anounce-1 h3{
+    
+    text-align: center;
+    font-family: georgia;
+    font-size:47px;
+    color:rgb(14, 52, 90);
+    text-decoration:none solid rgb(14, 52, 90);
+    line-height:normal;
+    vertical-align:baseline;
+    letter-spacing:2.35px;
+    word-spacing:0px;
+    font-weight:700;
+}
+
+.anounce-1 p{
+    width: 90%;
+    padding: 5px;
+    margin: auto;
+    line-height: 50px;
+}
+
+    a{
+        text-decoration: none;
+    }
+   
